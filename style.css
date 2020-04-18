@@ -1,0 +1,19 @@
+body {
+  background-color: black;
+}
+
+.card {
+  
+    background-color: darkorange;
+    color: white;
+}
+
+.container {
+  background-color: white;
+  border-radius: 25px;
+}
+
+h3 {
+  color: darkorange;
+  letter-spacing: 10px;
+}
