@@ -17,3 +17,24 @@ h3 {
   color: darkorange;
   letter-spacing: 10px;
 }
+
+.nav-item {
+  background-color: white;
+  
+}
+
+button {
+  border: white;
+  
+  border-radius: 5px;
+  
+}
+
+button:hover {
+  background-color: lightgrey;
+  border: black;
+}
+
+.nav {
+  padding: 10px;
+}
