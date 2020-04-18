@@ -25,8 +25,10 @@ h3 {
 
 button {
   border: white;
-  
+  text-align: center;
+  font-size: 18px;
   border-radius: 5px;
+  padding: 10px 15px;
   
 }
 
@@ -35,6 +37,17 @@ button:hover {
   border: black;
 }
 
-.nav {
+nav {
   padding: 10px;
+  border-radius: 25px;
 }
+
+p.thick {
+  font-weight: bold;
+  text-align: center;
+}
+
+/* Modify the backgorund color */ 
+.navbar-custom { 
+	background-color: gray; 
+} 
