@@ -6,6 +6,8 @@ body {
   
     background-color: darkorange;
     color: white;
+    border-radius: 15px;
+    
 }
 
 .container {
